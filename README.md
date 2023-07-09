@@ -1,5 +1,4 @@
 # Project: Firefly Light Accumulation
-![d9c037f6f35838b1d14a042d2433b76](https://github.com/5418XR/StackVideoFirefly/assets/72371666/637b4822-0d87-44de-9380-a5227dfc7d24)
 
 ## Description
 
@@ -62,3 +61,4 @@ This project is licensed under the terms of the MIT license. See the [LICENSE](h
 If you have any questions, please feel free to contact me. You can also raise an issue for any suggestions or improvements.
 
 **Happy Coding!**
+![d9c037f6f35838b1d14a042d2433b76](https://github.com/5418XR/StackVideoFirefly/assets/72371666/637b4822-0d87-44de-9380-a5227dfc7d24)
