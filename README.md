@@ -55,7 +55,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/5418XR/StackVideoFirefly/blob/main/LICENSE.txt) file for details.
 
 ## Contact
 
