@@ -2,7 +2,7 @@
 
 ## Description
 
-This simple Python project is designed to quickly complete the stacking task by capturing the faint light emitted by fireflies. The project focuses on the image stacking function itself, avoiding the high price you pay for a computer that supports intense video processing and unnecessary professional photo post-processing tools. (Money, time and unnecessary software features. When I built this project, I spent $5 on "professional camera software" at the Apple Store. However, to this day, I still don't understand how it works.) .
+This simple Python project is designed to quickly complete the stacking task by capturing the faint light emitted by fireflies. The project focuses on the image stacking function itself, avoiding the high price you pay for a computer that supports intense video processing and unnecessary professional photo post-processing tools. (Money, time and unnecessary software features. When I built this project, I spent 5$ on "professional camera software" at the Apple Store. However, to this day, I still don't understand how it works.) .
 The application collects key frames from the video of the light emitted by each individual firefly. Then by stacking the images, it eventually blends them into a single photo that represents the collective glow of the fireflies. Theoretically, you can also take it to any fixed-camera video footage.
 
 ## Features
