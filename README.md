@@ -2,7 +2,7 @@
 
 ## Description
 
-This simple Python project aims to quickly complete the task of accumulation by capturing the faint light emitted by fireflies. The project focuses on the image stack function itself, avoiding the high price you pay for a computer that supports intense video processing and unnecessary professional photo post-processing tools. 
+This simple Python project aims to quickly complete the task of accumulation by capturing the faint light emitted by fireflies. The project focuses on the image stack function itself, avoiding the high price you pay for a computer that supports intense video processing and unnecessary professional photo post-processing tools. （Money, time, and unnecessary software features. I spent $5 on the Apple Store to purchase "professional camera software" when I built this project. However, to this day, I don't understand how it works.）
 The application simulates the behavior of fireflies and collects the light emitted by each individual firefly from videos. It then accumulates this light over time to create a comprehensive dataset that represents the collective luminosity of the fireflies.
 
 ## Features
