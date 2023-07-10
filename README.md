@@ -1,4 +1,4 @@
-# Project: Firefly Light Accumulation
+# Project: Firefly Light Accumulation (photo stacking)
 
 ## Description
 
