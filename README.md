@@ -1,4 +1,4 @@
-Firefly Light Accumulation (Video -> photo stacking -> Video)
+<h1>Firefly Light Accumulation (Video -> photo stacking -> Video)<h1>
 
 ## Description
 
