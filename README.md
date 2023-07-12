@@ -1,4 +1,4 @@
-# Project: Firefly Light Accumulation (Video -> photo stacking -> Video)
+Firefly Light Accumulation (Video -> photo stacking -> Video)
 
 ## Description
 
